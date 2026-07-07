@@ -1,0 +1,1560 @@
+fileFormatVersion: 2
+guid: 18b6b0621620c8b4bbd7193ba3bfb6f5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2751194805942779746
+    second: Joke_Firecracker_Blast_0
+  - first:
+      213: -3889771197243226022
+    second: Joke_Firecracker_Blast_1
+  - first:
+      213: -8168380284018180920
+    second: Joke_Firecracker_Blast_2
+  - first:
+      213: -5040713501805642969
+    second: Joke_Firecracker_Blast_3
+  - first:
+      213: 8389126093436134126
+    second: Joke_Firecracker_Blast_4
+  - first:
+      213: 5579356781755457118
+    second: Joke_Firecracker_Blast_5
+  - first:
+      213: -6503025473955138467
+    second: Joke_Firecracker_Blast_6
+  - first:
+      213: 7463488797363893196
+    second: Joke_Firecracker_Blast_7
+  - first:
+      213: 2645209727818366430
+    second: Joke_Firecracker_Blast_8
+  - first:
+      213: 3849207647631593314
+    second: Joke_Firecracker_Blast_9
+  - first:
+      213: -5041919884333286464
+    second: Joke_Firecracker_Blast_10
+  - first:
+      213: 5568885417548929968
+    second: Joke_Firecracker_Blast_11
+  - first:
+      213: -298178783507549416
+    second: Joke_Firecracker_Blast_12
+  - first:
+      213: -977550456014365164
+    second: Joke_Firecracker_Blast_13
+  - first:
+      213: -3048494278819377568
+    second: Joke_Firecracker_Blast_14
+  - first:
+      213: 8867626941808148123
+    second: Joke_Firecracker_Blast_15
+  - first:
+      213: 4564462165816717291
+    second: Joke_Firecracker_Blast_16
+  - first:
+      213: 1166239979516326120
+    second: Joke_Firecracker_Blast_17
+  - first:
+      213: 5056561495238324350
+    second: Joke_Firecracker_Blast_18
+  - first:
+      213: -7574344782537434867
+    second: Joke_Firecracker_Blast_19
+  - first:
+      213: -582037183917190443
+    second: Joke_Firecracker_Blast_20
+  - first:
+      213: 2576091554638871820
+    second: Joke_Firecracker_Blast_21
+  - first:
+      213: 8758584967880103367
+    second: Joke_Firecracker_Blast_22
+  - first:
+      213: -806479808662520960
+    second: Joke_Firecracker_Blast_23
+  - first:
+      213: -3143205743148533532
+    second: Joke_Firecracker_Blast_24
+  - first:
+      213: 3505723152351615327
+    second: Joke_Firecracker_Blast_25
+  - first:
+      213: 101806952104374474
+    second: Joke_Firecracker_Blast_26
+  - first:
+      213: -971020584029537434
+    second: Joke_Firecracker_Blast_27
+  - first:
+      213: 3036678880444582141
+    second: Joke_Firecracker_Blast_28
+  - first:
+      213: -6432910963698047088
+    second: Joke_Firecracker_Blast_29
+  - first:
+      213: -7592828275254956140
+    second: Joke_Firecracker_Blast_30
+  - first:
+      213: 5827984839500613916
+    second: Joke_Firecracker_Blast_31
+  - first:
+      213: 6929476957874247605
+    second: Joke_Firecracker_Blast_32
+  - first:
+      213: 8906414133942149002
+    second: Joke_Firecracker_Blast_33
+  - first:
+      213: -3767220086849952018
+    second: Joke_Firecracker_Blast_34
+  - first:
+      213: -7646371993152231431
+    second: Joke_Firecracker_Blast_35
+  - first:
+      213: -8490731424840574829
+    second: Joke_Firecracker_Blast_36
+  - first:
+      213: 7842415028396799199
+    second: Joke_Firecracker_Blast_37
+  - first:
+      213: -1191906989847576967
+    second: Joke_Firecracker_Blast_38
+  - first:
+      213: 3328593675003866773
+    second: Joke_Firecracker_Blast_39
+  - first:
+      213: -3319149209197405325
+    second: Joke_Firecracker_Blast_40
+  - first:
+      213: 9137975906207425317
+    second: Joke_Firecracker_Blast_41
+  - first:
+      213: 8716052334064114614
+    second: Joke_Firecracker_Blast_42
+  - first:
+      213: -789087714999665197
+    second: Joke_Firecracker_Blast_43
+  - first:
+      213: -6343106920467466148
+    second: Joke_Firecracker_Blast_44
+  - first:
+      213: 7956255042620457180
+    second: Joke_Firecracker_Blast_45
+  - first:
+      213: 2516359681512343914
+    second: Joke_Firecracker_Blast_46
+  - first:
+      213: 5105358989949094423
+    second: Joke_Firecracker_Blast_47
+  - first:
+      213: -3803493983464256874
+    second: Joke_Firecracker_Blast_48
+  - first:
+      213: -5338014384603965923
+    second: Joke_Firecracker_Blast_49
+  - first:
+      213: 4735238267900192651
+    second: Joke_Firecracker_Blast_50
+  - first:
+      213: 4049847000923505360
+    second: Joke_Firecracker_Blast_51
+  - first:
+      213: 2753216151114107542
+    second: Joke_Firecracker_Blast_52
+  - first:
+      213: 1520755295410473322
+    second: Joke_Firecracker_Blast_53
+  - first:
+      213: 9016799160621317663
+    second: Joke_Firecracker_Blast_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_0
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1809
+        width: 122
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9081e386eac1d9d0800000000000000
+      internalID: -2751194805942779746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_1
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1752
+        width: 279
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5885ca74b1c40ac0800000000000000
+      internalID: -3889771197243226022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_2
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1765
+        width: 91
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccbaccd86514ae80800000000000000
+      internalID: -8168380284018180920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_3
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 1717
+        width: 149
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72bfb56e6c9cb0ab0800000000000000
+      internalID: -5040713501805642969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_4
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1655
+        width: 125
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2a8370cb92c6470800000000000000
+      internalID: 8389126093436134126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_5
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1552
+        width: 99
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e53bbae6bdd6d40800000000000000
+      internalID: 5579356781755457118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_6
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1653
+        width: 90
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54769339cc90c5a0800000000000000
+      internalID: -6503025473955138467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_7
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 1588
+        width: 119
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc37bf79483a39760800000000000000
+      internalID: 7463488797363893196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_8
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1535
+        width: 91
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd75078b3ca5b420800000000000000
+      internalID: 2645209727818366430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_9
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1418
+        width: 112
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f4cc726f12b6530800000000000000
+      internalID: 3849207647631593314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_10
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 1535
+        width: 91
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbf5541490870ab0800000000000000
+      internalID: -5041919884333286464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_11
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 1432
+        width: 150
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb5bd338c7a84d40800000000000000
+      internalID: 5568885417548929968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_12
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1372
+        width: 139
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8137979e9f7acdbf0800000000000000
+      internalID: -298178783507549416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_13
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1251
+        width: 77
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e1e3f1a0b0f62f0800000000000000
+      internalID: -977550456014365164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_14
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 1323
+        width: 150
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e0923ea9291b5d0800000000000000
+      internalID: -3048494278819377568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_15
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1336
+        width: 124
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e782b88b3201b70800000000000000
+      internalID: 8867626941808148123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_16
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1290
+        width: 91
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef2730082a385f30800000000000000
+      internalID: 4564462165816717291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_17
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1140
+        width: 125
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0fde515115f2010800000000000000
+      internalID: 1166239979516326120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_18
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1067
+        width: 124
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70399c93e38c2640800000000000000
+      internalID: 5056561495238324350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_19
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1169
+        width: 114
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09d5860d8582e690800000000000000
+      internalID: -7574344782537434867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_20
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 1164
+        width: 91
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d21c86d3403ce7f0800000000000000
+      internalID: -582037183917190443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_21
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1176
+        width: 133
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d3227ce9d10c320800000000000000
+      internalID: 2576091554638871820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_22
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 1154
+        width: 149
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5d1919f9ebc8970800000000000000
+      internalID: 8758584967880103367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_23
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 969
+        width: 112
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b352e03eecec4f0800000000000000
+      internalID: -806479808662520960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_24
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1028
+        width: 91
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8f9afa7071164d0800000000000000
+      internalID: -3143205743148533532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_25
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1020
+        width: 151
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59d7c802a4d6a030800000000000000
+      internalID: 3505723152351615327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_26
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 918
+        width: 75
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0b8df22e0b96100800000000000000
+      internalID: 101806952104374474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_27
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 919
+        width: 125
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bb35b6ced3682f0800000000000000
+      internalID: -971020584029537434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_28
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 1044
+        width: 128
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df884dd4a53742a20800000000000000
+      internalID: 3036678880444582141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_29
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1001
+        width: 150
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097ef01cf85b9b6a0800000000000000
+      internalID: -6432910963698047088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_30
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 862
+        width: 149
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fe2e489ead0a690800000000000000
+      internalID: -7592828275254956140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_31
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 872
+        width: 125
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19cbc2655921e050800000000000000
+      internalID: 5827984839500613916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_32
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 852
+        width: 149
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7595944927a2060800000000000000
+      internalID: 6929476957874247605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_33
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 920
+        width: 91
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fd3247770f99b70800000000000000
+      internalID: 8906414133942149002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_34
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 799
+        width: 128
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6a7946a4528bbc0800000000000000
+      internalID: -3767220086849952018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_35
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 702
+        width: 148
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f76aa73f21a2e590800000000000000
+      internalID: -7646371993152231431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_36
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 715
+        width: 131
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398912341ccda2a80800000000000000
+      internalID: -8490731424840574829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_37
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 749
+        width: 91
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4b6ccdaead5dc60800000000000000
+      internalID: 7842415028396799199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_38
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 635
+        width: 91
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e74d068ee757fe0800000000000000
+      internalID: -1191906989847576967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_39
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 677
+        width: 121
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ea730df4a813e20800000000000000
+      internalID: 3328593675003866773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_40
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 688
+        width: 120
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b154d316300f1d0800000000000000
+      internalID: -3319149209197405325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_41
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 595
+        width: 151
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523629febac90de70800000000000000
+      internalID: 9137975906207425317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_42
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 527
+        width: 91
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb1b9f0b63a5f870800000000000000
+      internalID: 8716052334064114614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_43
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 627
+        width: 144
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddf1da67e89c05f0800000000000000
+      internalID: -789087714999665197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_44
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 430
+        width: 138
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58f631fcd1c8f7a0800000000000000
+      internalID: -6343106920467466148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_45
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 486
+        width: 89
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd08dc5aecb4a6e60800000000000000
+      internalID: 7956255042620457180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_46
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 398
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6988af4cc7ebe220800000000000000
+      internalID: 2516359681512343914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_47
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 470
+        width: 86
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a43c6b3f0e9d640800000000000000
+      internalID: 5105358989949094423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_48
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 440
+        width: 91
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a0742bf56473bc0800000000000000
+      internalID: -3803493983464256874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_49
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 280
+        width: 91
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1651cff2309be5b0800000000000000
+      internalID: -5338014384603965923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_50
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 297
+        width: 149
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87e605cd12f6b140800000000000000
+      internalID: 4735238267900192651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_51
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 311
+        width: 112
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d20abce362f33830800000000000000
+      internalID: 4049847000923505360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_52
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 267
+        width: 91
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a46059083653620800000000000000
+      internalID: 2753216151114107542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_53
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 169
+        width: 143
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a694c3542eeca1510800000000000000
+      internalID: 1520755295410473322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joke_Firecracker_Blast_54
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 100
+        width: 91
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ebfd3401b122d70800000000000000
+      internalID: 9016799160621317663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Joke_Firecracker_Blast_0: -2751194805942779746
+      Joke_Firecracker_Blast_1: -3889771197243226022
+      Joke_Firecracker_Blast_10: -5041919884333286464
+      Joke_Firecracker_Blast_11: 5568885417548929968
+      Joke_Firecracker_Blast_12: -298178783507549416
+      Joke_Firecracker_Blast_13: -977550456014365164
+      Joke_Firecracker_Blast_14: -3048494278819377568
+      Joke_Firecracker_Blast_15: 8867626941808148123
+      Joke_Firecracker_Blast_16: 4564462165816717291
+      Joke_Firecracker_Blast_17: 1166239979516326120
+      Joke_Firecracker_Blast_18: 5056561495238324350
+      Joke_Firecracker_Blast_19: -7574344782537434867
+      Joke_Firecracker_Blast_2: -8168380284018180920
+      Joke_Firecracker_Blast_20: -582037183917190443
+      Joke_Firecracker_Blast_21: 2576091554638871820
+      Joke_Firecracker_Blast_22: 8758584967880103367
+      Joke_Firecracker_Blast_23: -806479808662520960
+      Joke_Firecracker_Blast_24: -3143205743148533532
+      Joke_Firecracker_Blast_25: 3505723152351615327
+      Joke_Firecracker_Blast_26: 101806952104374474
+      Joke_Firecracker_Blast_27: -971020584029537434
+      Joke_Firecracker_Blast_28: 3036678880444582141
+      Joke_Firecracker_Blast_29: -6432910963698047088
+      Joke_Firecracker_Blast_3: -5040713501805642969
+      Joke_Firecracker_Blast_30: -7592828275254956140
+      Joke_Firecracker_Blast_31: 5827984839500613916
+      Joke_Firecracker_Blast_32: 6929476957874247605
+      Joke_Firecracker_Blast_33: 8906414133942149002
+      Joke_Firecracker_Blast_34: -3767220086849952018
+      Joke_Firecracker_Blast_35: -7646371993152231431
+      Joke_Firecracker_Blast_36: -8490731424840574829
+      Joke_Firecracker_Blast_37: 7842415028396799199
+      Joke_Firecracker_Blast_38: -1191906989847576967
+      Joke_Firecracker_Blast_39: 3328593675003866773
+      Joke_Firecracker_Blast_4: 8389126093436134126
+      Joke_Firecracker_Blast_40: -3319149209197405325
+      Joke_Firecracker_Blast_41: 9137975906207425317
+      Joke_Firecracker_Blast_42: 8716052334064114614
+      Joke_Firecracker_Blast_43: -789087714999665197
+      Joke_Firecracker_Blast_44: -6343106920467466148
+      Joke_Firecracker_Blast_45: 7956255042620457180
+      Joke_Firecracker_Blast_46: 2516359681512343914
+      Joke_Firecracker_Blast_47: 5105358989949094423
+      Joke_Firecracker_Blast_48: -3803493983464256874
+      Joke_Firecracker_Blast_49: -5338014384603965923
+      Joke_Firecracker_Blast_5: 5579356781755457118
+      Joke_Firecracker_Blast_50: 4735238267900192651
+      Joke_Firecracker_Blast_51: 4049847000923505360
+      Joke_Firecracker_Blast_52: 2753216151114107542
+      Joke_Firecracker_Blast_53: 1520755295410473322
+      Joke_Firecracker_Blast_54: 9016799160621317663
+      Joke_Firecracker_Blast_6: -6503025473955138467
+      Joke_Firecracker_Blast_7: 7463488797363893196
+      Joke_Firecracker_Blast_8: 2645209727818366430
+      Joke_Firecracker_Blast_9: 3849207647631593314
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
